@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Louis had a crowdfunding campaign with Kickstarter to raise funds for her play, Fever. Louis almost reached her goal and now wants to know how other campaigns did in relation to their launch dates and funding goals.
+Using Excel and PivotTables to analyze Kickstarter data to understand how campaigns did in relation to their launch dates and funding goals.
 
 ### Purpose
 Using the Kickstarter dataset, this analysis will examine other campaigns in the theater category and compare campaign outcomes by their launch dates in months. The percent of successful, failed, and canceled campaigns are calculated and then compared by their targeted goal and graphed.
